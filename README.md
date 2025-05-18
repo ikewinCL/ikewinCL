@@ -10,8 +10,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
-
+<br>
 🧠 Ingeniero de Software con pasión por la tecnología y el aprendizaje continuo.<br>
 💻 Cuento con experiencia en Desarrollo de Software, Redes, Soporte TI y Gestión de Datos.<br>
 🚀 Me enfoco en crear soluciones que generen impacto, mejoren procesos y resuelvan problemas reales.<br>
