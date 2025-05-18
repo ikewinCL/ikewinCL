@@ -11,13 +11,13 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 210px></picture>
 
 <br>
-🧠 **Ingeniero de Software** con pasión por la tecnología y el aprendizaje continuo.</br>
-💻 Cuento con experiencia en **Desarrollo de Software**, **Redes**, **Soporte TI** y **Gestión de Datos**.  
-🚀 Me enfoco en crear soluciones que generen impacto, mejoren procesos y resuelvan problemas reales.  
-🌍 En este espacio compartiré proyectos que puedan **aportar a la comunidad** y fortalecer mi **trayectoria profesional**.  
-📚 Actualmente, sigo perfeccionando mis habilidades en análisis de datos y seguridad informática.
+<p>🧠 <strong>Ingeniero de Software</strong> con pasión por la tecnología y el aprendizaje continuo.</p>
+<p>💻 Cuento con experiencia en <strong>Desarrollo de Software</strong>, <strong>Redes</strong>, <strong>Soporte TI</strong> y <strong>Gestión de Datos</strong>.</p>
+<p>🚀 Me enfoco en crear soluciones que generen impacto, mejoren procesos y resuelvan problemas reales.</p>
+<p>🌍 En este espacio compartiré proyectos que puedan <strong>aportar a la comunidad</strong> y fortalecer mi <strong>trayectoria profesional</strong>.</p>
+<p>📚 Actualmente, sigo perfeccionando mis habilidades en análisis de datos y seguridad informática.</p>
 
-> ⚡ Siempre motivado por nuevos desafíos y oportunidades para crecer.
+<blockquote>⚡ Siempre motivado por nuevos desafíos y oportunidades para crecer.</blockquote>
 
 
 
