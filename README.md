@@ -23,7 +23,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Dashboard Económico de América Latina</h3>
 <div align="center">
 <a href="https://github.com/ikewinCL/latam_economic_dashboard" target="_blank"><img src="https://i.imgur.com/uIGX7v3.jpg" width="400" alt="Dashboard Económico de América Latina"></a>
 <p>
@@ -31,7 +31,12 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Este proyecto analiza el crecimiento económico de países latinoamericanos entre 2010 y 2023</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Este proyecto analiza el crecimiento económico de países latinoamericanos entre 2010 y 2023</strong> 
+Se utilizan indicadores como:
+PIB (USD)
+Inflación (% anual)
+Tipo de cambio
+Crecimiento anual del PIB</strong> con todo el código disponible para descargar.</p>
 </div>
                                                                                       
 </td>
