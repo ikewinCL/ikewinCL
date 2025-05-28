@@ -33,10 +33,10 @@
 </p>
 <p>Este proyecto analiza el crecimiento económico de países latinoamericanos entre 2010 y 2023</strong> 
 Se utilizan indicadores como:
-PIB (USD)
-Inflación (% anual)
-Tipo de cambio
-Crecimiento anual del PIB</strong> con todo el código disponible para descargar.</p>
+PIB (USD),
+Inflación (% anual),
+Crecimiento anual del PIB.
+</strong> con todo el código disponible para descargar.</p>
 </div>
                                                                                       
 </td>
