@@ -178,8 +178,7 @@ Tecnologías:
 
 📧 Email: kewincoro1.5@gmail.com  
 
-💼 LinkedIn  
-https://www.linkedin.com/in/kewin-coronel-lozano-331835162/
+💼 Linkedin: https://www.linkedin.com/in/kewin-coronel-lozano-331835162/
 
 ---
 
